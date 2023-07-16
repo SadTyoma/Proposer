@@ -3,5 +3,4 @@ A mobile app for a smart assistant bot designed to help companies quickly and ea
 
 Application use case:
 
-https://github.com/SadTyoma/Proposer/assets/77744477/9bc1af47-b5d0-47a5-b28d-e98beb20a360
-
+https://github.com/SadTyoma/Proposer/assets/77744477/389a7d2a-b8a1-4a04-9420-c2251b02b7e8
